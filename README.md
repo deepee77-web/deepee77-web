@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Pythion and C++
 - 💞️ I’m looking to collaborate on C++ programming
 - 📫 How to reach me danapatikhati14@gmail.com
-- 😄 Pronouns: ...dp
+- 😄 Pronouns: ...Tech Sprout(dp)
 - ⚡ Fun fact: ...
 
 <!---
